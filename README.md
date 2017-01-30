@@ -1,8 +1,8 @@
 # TestGitHub
-WELCOME
+WELCOME ti GIT Hash hub
 Git tutorial
-Test git hub reposutory minim git
-how to nebve functio
+you are learning GIT
+GIT is very easy learning 
 hello every one
 Welcome to GIT
 
